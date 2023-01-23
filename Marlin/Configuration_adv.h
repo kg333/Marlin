@@ -3030,7 +3030,7 @@
     #define STEALTHCHOP_U
     #define STEALTHCHOP_V
     #define STEALTHCHOP_W
-    #define STEALTHCHOP_E
+    //#define STEALTHCHOP_E // https://www.reddit.com/r/3Dprinting/comments/jipb8j/marlin_2_scurve_acceleration_linear_advance_and/gq453r1/
   #endif
 
   /**
